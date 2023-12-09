@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "manifest.json": "jsonc",
+        "pages.json": "jsonc",
+        "*.tcc": "cpp"
+    }
+}
